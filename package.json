@@ -1,0 +1,23 @@
+{
+  "name": "since_node_server",
+  "version": "1.0.0",
+  "description": "目前的想法是打一个建议的api测试服务器\r 用来临时替代mock",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuWenMr/since_node_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuWenMr/since_node_server/issues"
+  },
+  "homepage": "https://github.com/fuWenMr/since_node_server#readme",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-router": "^9.1.0"
+  }
+}
